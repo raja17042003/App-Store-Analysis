@@ -1,4 +1,4 @@
-# 📊 App Store Ratings & Insights Analyzer (Using AI)
+# 📊 AI-Enhanced Google Play Store Analytics
 
 # 📌 Overview
 
