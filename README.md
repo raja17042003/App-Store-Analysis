@@ -48,8 +48,7 @@ Near zero = No strong linear relation.
 Sorts apps by rating.Displays the top 5 highest-rated and bottom 5 lowest-rated apps.  
 Uses horizontal bar charts for both.  
 **💰 5. Correlation: App Size vs Price:**  
-Converts app size (e.g., “23M”, “500k”) into numeric values (bytes).
-Cleans price data (removes "$").  
+Converts app size (e.g., “23M”, “500k”) into numeric values (bytes). 
 Computes correlation between size and price.  
 Interpretation tells whether larger apps tend to cost more or less.  
 **📦 6. App Count per Category:**  
@@ -64,4 +63,4 @@ For each Content Rating (e.g., "Everyone", "Teen"):Displays a pie chart of the t
 
 ## 🛠️ Tools & Technologies
 **📦 Programming Language :**  Python – Main language used for data processing, analysis, and visualization.  
-**🧠 AI TOOL :**  ChatGpt –  Assisted in generating code, designing project structure, and data analysis logic. 
+**🧠 AI TOOL :**  ChatGpt –  Assisted in generating code, designing project structure, and data analysis logic.
