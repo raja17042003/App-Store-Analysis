@@ -1,0 +1,4 @@
+The required tool for the analysis are the following:
+- pandas
+- matplotlib
+- seaborn
