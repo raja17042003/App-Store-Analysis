@@ -46,19 +46,19 @@ This project analyzes a dataset of apps from the Google Play Store to uncover pa
 
 ## 📁 Project Structure
 
-app_store_analysis_project/
+App Store Ratings & Insights Analyzer (Using AI) /
 
 ├── data  
-│ └── app_store_data.csv # Raw dataset  
+│ └── App_store_data.csv # Raw dataset  
 │  
 ├── scripts/  
-│ ├── clean_data.py # Data cleaning functions  
+│ ├── cleaned data.py # Data cleaning functions  
 │ ├── analysis.py # Statistical analysis of the give data  
 │ └── charts.py # Seaborn/Matplotlib chart functions  
 │  
 ├── outputs/  
-│ ├── charts/ # PNGs of static charts  
-│ └── analysis/ #  result of analysis  
+│ ├── charts/      # PNGs of static charts  
+│ └── analysis/    #  result of analysis  
 │  
 ├── utils/  
 │ └── helpers.py # Helper/utility functions  
