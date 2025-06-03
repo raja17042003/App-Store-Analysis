@@ -69,7 +69,4 @@ app_store_analysis_project/
 
 ---
 
-# 🚀 How to Run
-**1. Clone this repository**
-git clone https://github.com/yourusername/app-store-analyzer.git
-cd app-store-analyzer
+See my other data analysis project at https://github.com/raja17042003?tab=repositories
